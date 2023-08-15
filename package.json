@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tecardo1/GruppenBot.git"
+    "url": "git+https://github.com/HeeroML/VorschlagNew.git"
   },
   "author": "Mike Leitner <tecardo@gmail.com>",
   "license": "LGPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Tecardo1/GruppenBot/issues"
+    "url": "https://github.com/HeeroML/VorschlagNew/issues"
   },
   "homepage": "https://t.me/gruppen",
   "dependencies": {
